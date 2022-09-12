@@ -1,0 +1,14 @@
+{
+  "name": "encryption-with-keys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate-key": "node Public_Private_Key_Generator",
+    "Asymmetric-Encryption": "node Asymmetric_Encryption"
+  },
+  "keywords": [],
+  "author": "Veeresh_Rex",
+  "license": "ISC"
+}
