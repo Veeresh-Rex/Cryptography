@@ -16,6 +16,7 @@ const { privateKey, publicKey } = crypto.generateKeyPairSync('rsa', {
 });
 
 // Keys in format of UTF-8
+// The format of keys is pem
 
 // Store Public Key and Private Key
 fs.writeFile('Keys/publickey.pem', publicKey, function (err) {

@@ -1,2 +1,2 @@
 This is a Dummy text.
-Use Excryption and decryption
+Use Encryption and decryption
