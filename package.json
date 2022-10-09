@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate-key": "node Public_Private_Key_Generator",
-    "Asymmetric-Encryption": "node Asymmetric_Encryption"
+    "Asymmetric-Encryption": "node Asymmetric_Encryption",
+    "Signature": "node Signature"
   },
   "keywords": [],
   "author": "Veeresh_Rex",
